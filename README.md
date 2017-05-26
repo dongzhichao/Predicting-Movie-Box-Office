@@ -9,6 +9,6 @@ The main target of this project is to predict the box office
 
 License
 -------
-© Contributors, 2017. Licensed under an [Apache-2](https://github.com/dongzhichao/Predicting-Movie-Box-Office/blob/master/LICENSE)license.
+© Contributors, 2017. Licensed under an [Apache-2](https://github.com/dongzhichao/Predicting-Movie-Box-Office/blob/master/LICENSE) license.
 
 
